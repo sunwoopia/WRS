@@ -8,7 +8,6 @@
     background-color: black;
     margin: 20px;
 }
-
 .main {
     width: 280px;
     height: 320px;
@@ -137,7 +136,6 @@
 .mainImg img {
     width: 45px;
     height: 45px;
-
 }
 .mainText {
     display: flex;
