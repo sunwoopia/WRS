@@ -19,12 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faee9002-1142-4db4-b495-2971d243373b" name="Default Changelist" comment="WRS 페이지 css 구성">
-      <change afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/menubar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
+    <list default="true" id="faee9002-1142-4db4-b495-2971d243373b" name="Default Changelist" comment="WRS 페이지 반응형 css 적용">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,8 @@
       <workItem from="1600420827220" duration="306000" />
       <workItem from="1600494231379" duration="663000" />
       <workItem from="1600676865177" duration="1848000" />
-      <workItem from="1600680768644" duration="2282000" />
+      <workItem from="1600680768644" duration="3755000" />
+      <workItem from="1600759066605" duration="6368000" />
     </task>
     <task id="LOCAL-00001" summary="wrs study #1">
       <created>1599404340488</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600268338848</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="WRS 페이지 반응형 css 적용">
+      <created>1600689213437</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1600689213437</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,13 +161,14 @@
     <MESSAGE value="WRS assignment #1" />
     <MESSAGE value="WRS 페이지 레이아웃 구성하기" />
     <MESSAGE value="WRS 페이지 css 구성" />
-    <option name="LAST_COMMIT_MESSAGE" value="WRS 페이지 css 구성" />
+    <MESSAGE value="WRS 페이지 반응형 css 적용" />
+    <option name="LAST_COMMIT_MESSAGE" value="WRS 페이지 반응형 css 적용" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600678285524">
+    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600760399807">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600678285524" />
+    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600760399807" />
     <state x="575" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599473517920">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -169,17 +177,21 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600685373687" />
-    <state x="440" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600268345042">
+    <state x="440" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600689215701">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="252" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600268345042" />
+    <state x="440" y="252" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600689215701" />
     <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600091756527">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600091756527" />
-    <state x="538" y="167" width="604" height="548" key="find.popup" timestamp="1600166246496">
+    <state x="538" y="167" width="604" height="548" key="find.popup" timestamp="1600760316366">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="538" y="167" width="604" height="548" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600166246496" />
+    <state x="538" y="167" width="604" height="548" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600760316366" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1600769960578">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1600769960578" />
   </component>
 </project>
