@@ -216,6 +216,10 @@ footer {
 }
 .title {
     font-family: Georgia;
+    margin-bottom: 30px;
+}
+.title1 {
+    font-family: Georgia;
 }
 .button {
     width: 400px;

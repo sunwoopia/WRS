@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faee9002-1142-4db4-b495-2971d243373b" name="Default Changelist" comment="WRS 페이지 반응형 css 적용">
+    <list default="true" id="faee9002-1142-4db4-b495-2971d243373b" name="Default Changelist" comment="WRS 서브페이지 (signup, login) 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
@@ -93,7 +93,7 @@
       <workItem from="1600494231379" duration="663000" />
       <workItem from="1600676865177" duration="1848000" />
       <workItem from="1600680768644" duration="3755000" />
-      <workItem from="1600759066605" duration="6368000" />
+      <workItem from="1600759066605" duration="6664000" />
     </task>
     <task id="LOCAL-00001" summary="wrs study #1">
       <created>1599404340488</created>
@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600689213437</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="WRS 서브페이지 (signup, login) 추가">
+      <created>1600775413721</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1600775413721</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,13 +169,14 @@
     <MESSAGE value="WRS 페이지 레이아웃 구성하기" />
     <MESSAGE value="WRS 페이지 css 구성" />
     <MESSAGE value="WRS 페이지 반응형 css 적용" />
-    <option name="LAST_COMMIT_MESSAGE" value="WRS 페이지 반응형 css 적용" />
+    <MESSAGE value="WRS 서브페이지 (signup, login) 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="WRS 서브페이지 (signup, login) 추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600760399807">
+    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600775285344">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600760399807" />
+    <state x="304" y="186" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600775285344" />
     <state x="575" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599473517920">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -177,10 +185,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="279" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1600685373687" />
-    <state x="440" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600689215701">
+    <state x="440" y="252" key="Vcs.Push.Dialog.v2" timestamp="1600775415935">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="252" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600689215701" />
+    <state x="440" y="252" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1600775415935" />
     <state x="638" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600091756527">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
